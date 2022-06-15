@@ -1,0 +1,25 @@
+/*style sheet*/
+
+p {
+    background-color: #fa768c;
+    color: black;
+    font-family: 'Verdana', 'DejaVu Sans','sans-serif';
+
+}
+
+.cooler {
+    font-size: 24px;
+
+}
+
+#one {
+    color: #4148c2;
+    font-size: 36px;
+
+}
+
+#two {
+    background-color: #72e076;
+    font-size: 24px;
+    font-weight: 700;
+}
